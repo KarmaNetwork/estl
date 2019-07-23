@@ -1,0 +1,8 @@
+[project]
+name = "estl"
+domain = "karma"
+author = "tiannian <dtiannian@aliyun.com>"
+
+[dependencies]
+"pthread" = "system"
+"boost_thread" = "system"
